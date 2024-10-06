@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="PGA31_Risk_Analytics_Deployment" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="PGA31_Risk_Analytics_Deployment" project-jdk-type="Python SDK" />
+</project>
